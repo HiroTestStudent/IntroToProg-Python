@@ -83,7 +83,7 @@ while(True):
         print("The following data was saved to a file: \n\r", lstTable)
         if (input("Type 'exit' to end?").lower() == "exit"): break
     elif (strChoice == '5'):
-        print("New Data not Saved! Good bye!")
+        print("Good bye!")
         break #and Exit the program
 
 
